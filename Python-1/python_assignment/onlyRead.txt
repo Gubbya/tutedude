@@ -1,0 +1,8 @@
+**************************************************
+Welcome to Python file handling!
+----------------
+This is a test file to demonstrate reading
+Python makes it easy to work with files.
+Thank You so much !!
+
+**************************************************

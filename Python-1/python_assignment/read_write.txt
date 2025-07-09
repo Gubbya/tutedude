@@ -1,0 +1,7 @@
+Hello, this is a sample file.
+This file was created using Python!
+You can add more lines as needed.
+User input taken and added
+Now Adding New Line
+Seprated files
+nice
